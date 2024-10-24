@@ -1,0 +1,7 @@
+Line 21: Class MSComctlLib.ListView of control lvwToExcel was not a loaded control class.
+Line 27: The property name _ExtentX in lvwToExcel is invalid.
+Line 28: The property name _ExtentY in lvwToExcel is invalid.
+Line 29: The property name LabelWrap in lvwToExcel is invalid.
+Line 30: The property name HideSelection in lvwToExcel is invalid.
+Line 31: The property name _Version in lvwToExcel is invalid.
+Line 36: The property name NumItems in lvwToExcel is invalid.
